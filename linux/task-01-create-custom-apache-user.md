@@ -6,6 +6,9 @@
 
 ## O que eu fiz
 1. Troquei de servidor via SSH, usando a documentação deles para entender o nome do host e as credenciais.
+   ```
+   ssh usuario@hostname
+   ```
 2. Pesquisei o comando `useradd` nas notes do KodeKloud para relembrar as flags corretas.
 3. Comando final que funcionou:
    ```
