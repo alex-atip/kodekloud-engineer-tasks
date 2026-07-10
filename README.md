@@ -10,6 +10,7 @@ This repo is part of my transition from Frontend Development into DevOps/Cloud i
 |---|------|-------|
 | 01 | [Create Custom Apache User](linux/task-01-create-custom-apache-user.md) | Linux User Management — `useradd` with custom UID/home directory |
 | 02 | [Group Creation and User Assignment](linux/task-02-create-group-all-servers-create-users-user.md) | Linux User Management — `groupadd`, secondary groups, multi-server SSH |
+| 03 | [Non-Interactive Shell User](linux/task-03-non-interactive-shell-user.md) | Linux User Management — `useradd -s`, shell validation |
 
 ## About me
 
